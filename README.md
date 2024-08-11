@@ -1,2 +1,2 @@
 # Project_Euler
-Here you find the Project Euler exercises of FreeCodeCamp written with Python.
+In this repo you will find my solutions to Project Euler problems proposed in FreeCodeCamp using Python.
